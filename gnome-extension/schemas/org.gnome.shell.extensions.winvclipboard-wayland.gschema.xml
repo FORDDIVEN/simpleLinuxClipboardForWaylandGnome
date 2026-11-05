@@ -1,0 +1,5 @@
+<schemalist>
+ <schema id="org.gnome.shell.extensions.winvclipboard-wayland" path="/org/gnome/shell/extensions/winvclipboard-wayland/">
+  <key name="winv-toggle" type="as"><default>['&lt;Super&gt;v']</default><summary>Toggle clipboard history</summary></key>
+ </schema>
+</schemalist>

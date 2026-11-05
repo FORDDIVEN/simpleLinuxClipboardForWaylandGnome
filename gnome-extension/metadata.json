@@ -1,0 +1,8 @@
+{
+  "uuid": "winvclipboard-wayland@local",
+  "name": "WinV Clipboard Wayland Bridge",
+  "description": "GNOME companion for the resident Python clipboard history: shortcut, clipboard, window position and paste.",
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.shell.extensions.winvclipboard-wayland",
+  "version": 2
+}

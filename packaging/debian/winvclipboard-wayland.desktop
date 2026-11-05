@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=WinV Clipboard Wayland (background)
+Exec=winvclipboard-wayland --background
+Icon=winvclipboard-wayland
+Terminal=false
+OnlyShowIn=GNOME;
+X-GNOME-Autostart-enabled=true

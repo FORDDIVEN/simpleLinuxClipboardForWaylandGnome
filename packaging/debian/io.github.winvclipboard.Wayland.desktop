@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=WinV Clipboard Wayland
+Comment=Historial de portapapeles para GNOME 50 Wayland
+Exec=winvclipboard-wayland
+Icon=winvclipboard-wayland
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+StartupWMClass=io.github.winvclipboard.Wayland
