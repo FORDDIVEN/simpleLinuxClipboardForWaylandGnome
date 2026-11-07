@@ -16,8 +16,7 @@ escritorios Wayland.
 
 ## Instalación en Ubuntu / GNOME 50
 
-Descarga el paquete amd64 desde las Releases del nuevo repositorio, cuando
-estén publicadas. Desde la carpeta de descarga:
+Descarga el paquete amd64 desde las Releases.
 
 ```bash
 sudo apt install ./winvclipboard-wayland_0.2.2~gnome50.1_amd64.deb
